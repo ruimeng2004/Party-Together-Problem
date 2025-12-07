@@ -345,6 +345,3 @@ def is_better(candidate_eval, best_candidate_eval, current_eval):
 
     return False
 
-
-if __name__ == "__main__":
-    pass
