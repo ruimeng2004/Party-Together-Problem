@@ -15,8 +15,8 @@ Following instructions are supported:
 - exit: quit the client
 - ls_input: list all input files (default under ./inputs folder)
 - ck_input: check whether student created inputs are valid or not
-- test_pthp: test pthp solver 
+- test_php: test pthp solver 
 - test_ptp: test ptp solver
-- test_pthp_all: test pthp solver on all input files
+- test_php_all: test pthp solver on all input files
 - test_ptp_all: test ptp solver on all input files
 - --help: get help instructions
